@@ -1,4 +1,4 @@
-# 🛍️ E-Shop — Django E-commerce Website
+# 🛍️ QUICK-PIC — Django E-commerce Website
 
 This is a demo e-commerce website built using **Django**, **HTML**, **CSS**, and **JavaScript**. It includes both an **Admin panel** and a **Customer portal** with all basic functionalities of an online shopping platform.
 
