@@ -1,2 +1,37 @@
-# E_commerce_website
-A dynamic e‑commerce website built with HTML, CSS, JavaScript, and Django. Supports separate customer and admin portals for shopping and management. Features include product browsing, order management, and secure authentication.
+# 🛍️ E-Shop — Django E-commerce Website
+
+This is a demo e-commerce website built using **Django**, **HTML**, **CSS**, and **JavaScript**. It includes both an **Admin panel** and a **Customer portal** with all basic functionalities of an online shopping platform.
+
+---
+
+## 🎥 Demo Video
+
+---
+
+## 🔑 Features
+
+### 🧑‍💼 Admin Panel
+- Add/Edit/Delete products
+- Manage stock and sizes
+- Update order status (Shipped / Delivered / Cancelled)
+- Dashboard with order/product summaries
+
+### 🛒 Customer Portal
+- Browse and search products
+- Add to cart and wishlist
+- Place orders
+- Track order status
+- Edit profile / Change password
+
+---
+
+## 🛠 Tech Stack
+
+- **Backend:** Django (Python)
+- **Frontend:** HTML, CSS, JavaScript
+- **Database:** SQLite (default)
+- **Authentication:** Django built-in User model
+
+---
+
+
